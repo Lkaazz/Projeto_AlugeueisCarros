@@ -1,6 +1,8 @@
 # Sistema de Aluguel de Carros
 
-**Autores:** Leonardo Moraes - CP3015777 & Lucas Carvalho - CP3020363
+**Autores:** 
+Leonardo Moraes - CP3015777 
+Lucas Carvalho - CP3020363
 
 ![Screenshot da Tela do Sistema](https://i.imgur.com/FKCMO5n.jpeg)
 
