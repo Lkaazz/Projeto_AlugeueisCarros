@@ -38,7 +38,3 @@ O banco de dados **MySQL** contém as tabelas principais:
 
 ## Conclusão
 O Sistema de Aluguel de Carros é uma solução robusta para o gerenciamento de locações de veículos. Sua arquitetura organizada e a utilização de tecnologias conhecidas tornam a aplicação eficiente e fácil de manter. Os desafios enfrentados durante o desenvolvimento ajudaram a consolidar boas práticas de programação e segurança no acesso a dados.
-
----
-
-Sinta-se à vontade para contribuir com melhorias ou sugestões.
