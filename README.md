@@ -2,6 +2,8 @@
 
 **Autores:** Leonardo Moraes - CP3015777 & Lucas Carvalho - CP3020363
 
+![Screenshot da Tela do Sistema](https://i.imgur.com/FKCMO5n.jpeg)
+
 ## Descrição
 O Sistema de Aluguel de Carros é uma aplicação web desenvolvida para gerenciar o processo de aluguel de veículos, abrangendo funcionalidades como cadastro de veículos, registro de locações, devoluções e histórico de clientes. A aplicação foi construída seguindo a arquitetura **MVC (Model-View-Controller)**, o que proporciona uma separação clara entre a lógica de apresentação, controle e acesso aos dados, facilitando a manutenção e escalabilidade do projeto.
 
